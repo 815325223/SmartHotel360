@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ZCHENG/Devops%20Demo/_apis/build/status%2F815325223.SmartHotel360?branchName=master)](https://dev.azure.com/ZCHENG/Devops%20Demo/_build/latest?definitionId=2&branchName=master)
 # **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
